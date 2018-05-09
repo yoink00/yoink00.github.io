@@ -61,6 +61,7 @@ body {
 	font-family: 'Noto Sans',sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	background-color: grey;
 }
 
 p {
@@ -188,6 +189,12 @@ strong {
 	display: none;
 }
 
+div#main {
+	width: 210mm;
+	margin: auto;
+	background-color: blanchedalmond;
+	padding: 10mm;
+}
 
 
 /*
