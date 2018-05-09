@@ -15,13 +15,13 @@ Programmer, People Person, Technologist
 
 Head of Technical Architecture at Genesis Global helping deliver a microservices platform to banks, hedge funds, broker/dealers, exchanges and clearing houses.
 
-### Specialized in
+## Specialised in
 
 Delivering excellent software and solutions to clients by involved in the full lifecycle from requirements gathering to development to delivering on premises and in the cloud.
 
-### Skills
+## Skills
 
-#### Programming Languages
+### Programming Languages
 
 - C
 - C++
@@ -34,7 +34,7 @@ Delivering excellent software and solutions to clients by involved in the full l
 - Python
 - Tcl
 
-#### Operating Systems
+### Operating Systems
 
 - Linux
 - Solaris
@@ -42,7 +42,7 @@ Delivering excellent software and solutions to clients by involved in the full l
 - Windows
 - macOS
 
-#### Specialist Financial Technology
+### Specialist Financial Technology
 
 - Fidessa
 - Vhayu Velocity / Reuters Tick Capture Engine
@@ -51,7 +51,7 @@ Delivering excellent software and solutions to clients by involved in the full l
 - FIX Protocol
 - Market Data protocols (ITCH, FAST, etc)
 
-#### Other Technical Skills
+### Other Technical Skills
 
 - HTML 5
 - CSS / SASS
