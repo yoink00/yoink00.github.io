@@ -7,7 +7,8 @@ Programmer, People Person, Technologist
 
 <div id="webaddress">
 <a href="stuart@wapbot.co.uk">stuart@wapbot.co.uk</a>
-| <a href="https://yoink00.github.io/markdown-cv">CV</a>
+| <a href="https://yoink00.github.io/markdown-cv">https://yoink00.github.io/markdown-cv</a>
+| <a href="tel:07989 301430">07989 301439</a>
 </div>
 
 
@@ -33,6 +34,7 @@ Delivering excellent software and solutions to clients by involved in the full l
 - Lua
 - Python
 - Tcl
+{: .skill-list }
 
 ### Operating Systems
 
@@ -41,8 +43,9 @@ Delivering excellent software and solutions to clients by involved in the full l
 - FreeBSD
 - Windows
 - macOS
+{: .skill-list }
 
-### Specialist Financial Technology
+### Financial Technology
 
 - Fidessa
 - Vhayu Velocity / Reuters Tick Capture Engine
@@ -50,6 +53,7 @@ Delivering excellent software and solutions to clients by involved in the full l
 - Reuters RFA / RMDS
 - FIX Protocol
 - Market Data protocols (ITCH, FAST, etc)
+{: .skill-list }
 
 ### Other Technical Skills
 
@@ -66,19 +70,38 @@ Delivering excellent software and solutions to clients by involved in the full l
 - Gulp
 - UNIX Sockets
 - Microservice Architecture
+{: .skill-list }
 
 ## Professional Experience
 
 ### Genesis Global Technology
-`September 2017 - Present `
+Genesis develops a microservices framework and products built on that framework targetted at financial services.
+
+#### September 2017 - Present
 __Head of Technical Architecture__, London
 
-__Genesis Global__ do stuff
+Duties include:
+- Responsibility for infrastructure (AWS) and DevOps including hiring and strategy.
+- Responsibility for the microservices architecture and ensuring products follow the architecture.
+- Creating of development processes and best practices across the development teams.
+- Unification of development teams across geographies into one team.
+- Development of products on the microservices framework (Java 8, Kotlin)
+- Define the future of the microservices architecture and develop a roadmap to keep up with current trends.
+
+Achievements in this role:
+- Hired for new DevOps engineer:
+ - Aided and empowered new starter.
+ - Worked alongside DevOps engineer to introduce CI/CD tools
+ - Worked alongside DevOps engineer to introduce infrastructure as code (Terraform and Ansible) for all managed environments.
+- Developed new real-time trade and transaction reconciliation product to satisfy new MiFID 2 requirements (Kotlin)
+ - Worked with clients to deploy the software on-premises and integrate the product into existing message flows (FIX, files, FPML)
+- Developed new framework integration with R (Java 8, R) and investigating possible performance and user experience improvements using GraalVM.
+- Dockerise Genesis installs to take advantage of modern microservices tooling with a focus on defining a Genesis product pods for Kubernetes (Go, Docker, Kubernetes, ECSfK).
 
 ### FlexTrade UK Ltd
 FlexTrade develop several multi-asset trading products including an equities OMS, a multi-asset EMS and an FX sell-side system and SaaS services based on those products.
 
-`June 2016 - August 2017`
+#### June 2016 - August 2017
 __Head of Infrastructure, Europe__, London
 
 Duties include:
@@ -104,7 +127,7 @@ Achievements in this role includes:
 - Upgrade of Puppet codebase from 3 to 4 and enhancements to server management.
 - Design and implementation of a new build, test and deploy pipeline using Git, Nomad, Consul and Jenkins moving control of build and test environments into the hands of developers, improving build capacity and build times and making better use of hardware.
 
-`March 2016 - June 2016`
+#### March 2016 - June 2016
 __Head of Client Operations__, London
 
 Duties included:
@@ -119,7 +142,7 @@ Duties included:
 - Design and development of a primary-standby HA setup for FlexTrade systems using a mixture of existing FlexTrade tools, new management scripts, Postgres streaming replication and Linux system configuration.
 - Development of a real-time monitoring system for all FlexTrade’s hosted systems in a mixture of C/Lua/Bash for the on-box monitoring tools, a RESTful Go microservices monitoring server interfacing to a RethinkDB database and a Javascript/Flux/React.js in-browser application.
 
-`August 2012 - March 2016`
+#### August 2012 - March 2016
 __OMS Product Manager, Europe and Lead Developer__, London
 
 Duties included:
@@ -139,7 +162,7 @@ Achievements in this role included:
 ### Fidessa Group plc
 A software and services company to the financial services sector providing trading systems, market data and related services to sell-side and buy-side customers.
 
-`October 2009 - August 2012`
+#### October 2009 - August 2012
 __Lead Product Manager, Europe__, London and Woking
 
 Management role duties included:
@@ -162,7 +185,7 @@ Achievements in this role included:
 - Raising the profile of the overlooked Product Management role to a position where Product Managers garnered respect from their colleagues and were actively sought out when new products were created or projects began to fail.
 - Overall management of a project to create a suite of 45 synthetic order types and algorithms, including standard benchmark algorithms, for Futures and Options trading.
 
-`December 2008 - October 2009`
+#### December 2008 - October 2009
 __Senior Software Engineer__, Woking
 
 Worked within the Product Infrastructure team—building the underlying core of all Fidessa’s products—developing key components for business development teams.
@@ -175,7 +198,7 @@ Projects included:
 ### Vhayu Technologies
 The developer of a time-series database and complex event processing application used by financial institutions and market data vendors to capture, store and analyse high-volume financial market data. Vhayu were acquired by Thomson Reuters.
 
-`May 2007 - December 2008`
+#### May 2007 - December 2008
 __Client Services Consultant__, London
 
 Key responsibilities included:
@@ -193,7 +216,7 @@ Key achievements included:
 ### Fidessa Group plc
 A software and services company to the financial services sector providing trading systems, market data and related services to sell-side and buy-side customers.
 
-`June 2004 - May 2007`
+#### June 2004 - May 2007
 __Development Manager__, New York, USA
 The Lead Developer and later Development Manager of the Fidessa market data platform.
 
@@ -206,7 +229,7 @@ Key responsibilities included:
 - Consulted by exchanges to aid in the design of new market data feeds, due to expertise in the field.
 - Managed many operational aspects of the market data system, including the installation of software, management of historical data and management of the hardware platform.
 
-`September 2001 - June 2004`
+#### September 2001 - June 2004
 __Programmer__, Woking
 
 Key achievements included:
@@ -216,10 +239,10 @@ Key achievements included:
 
 ## Education
 
-`September 1997 - July 2001`
-__University of Bradford, West Yorkshire__
+### University of Bradford
 
-- BSc(Hons) Computer Science: 2:1
+#### September 1997 - July 2001
+__BSc(Hons) Computer Science__: 2:1
 
 <!-- ### Footer
 
