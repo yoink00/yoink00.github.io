@@ -7,7 +7,7 @@ Programmer, People Person, Technologist
 
 <div id="webaddress">
 <a href="stuart@wapbot.co.uk">stuart@wapbot.co.uk</a>
-| <a href="https://yoink00.github.io/markdown-cv">https://yoink00.github.io/markdown-cv</a>
+| <a href="https://cv.wapbot.co.uk">https://cv.wapbot.co.uk</a>
 | <a href="tel:07989 301430">07989 301439</a>
 </div>
 
@@ -18,7 +18,7 @@ Head of Technical Architecture at Genesis Global helping deliver a microservices
 
 ## Specialised in
 
-Delivering excellent software and solutions to clients by involved in the full lifecycle from requirements gathering to development to delivering on premises and in the cloud.
+Software developer delivering excellent software and solutions to clients being involved in the full lifecycle from requirements gathering to development to delivering on premises and in the cloud.
 
 ## Skills
 
@@ -55,21 +55,39 @@ Delivering excellent software and solutions to clients by involved in the full l
 - Market Data protocols (ITCH, FAST, etc)
 {: .skill-list }
 
+### Databases
+
+- SQL (Postgres, Sybase and MS SQL)
+- MongoDB
+- RethinkDB
+- FoundationDB
+- InfluxDB
+- Aerospike
+{: .skill-list }
+
+### Containers
+
+- Docker
+- Nomad
+- CoreOS
+- Consul
+{: .skill-list }
+
+### Architecture
+
+- Microsevices
+- Monolithic
+- SaaS
+{: .skill-list }
+
 ### Other Technical Skills
 
 - HTML 5
 - CSS / SASS
-- SQL (Postgres, Sybase and MS SQL)
-- MongoDB
-- RethinkDB
-- Docker
-- Nomad
-- Consul
 - Jenkins
-- Aerospike
 - Gulp
 - UNIX Sockets
-- Microservice Architecture
+- AWS
 {: .skill-list }
 
 ## Professional Experience
@@ -83,16 +101,15 @@ __Head of Technical Architecture__, London
 Duties include:
 - Responsibility for infrastructure (AWS) and DevOps including hiring and strategy.
 - Responsibility for the microservices architecture and ensuring products follow the architecture.
+- Define the future of the microservices architecture and develop a roadmap to keep up with current trends.
 - Creating of development processes and best practices across the development teams.
 - Unification of development teams across geographies into one team.
 - Development of products on the microservices framework (Java 8, Kotlin)
-- Define the future of the microservices architecture and develop a roadmap to keep up with current trends.
 
 Achievements in this role:
-- Hired for new DevOps engineer:
- - Aided and empowered new starter.
- - Worked alongside DevOps engineer to introduce CI/CD tools
- - Worked alongside DevOps engineer to introduce infrastructure as code (Terraform and Ansible) for all managed environments.
+- Built DevOps team and worked with the team to:
+  - Introduce CI/CD tools
+  - Introduce infrastructure as code (Terraform and Ansible) for all managed environments.
 - Developed new real-time trade and transaction reconciliation product to satisfy new MiFID 2 requirements (Kotlin)
  - Worked with clients to deploy the software on-premises and integrate the product into existing message flows (FIX, files, FPML)
 - Developed new framework integration with R (Java 8, R) and investigating possible performance and user experience improvements using GraalVM.
@@ -218,6 +235,7 @@ A software and services company to the financial services sector providing tradi
 
 #### June 2004 - May 2007
 __Development Manager__, New York, USA
+
 The Lead Developer and later Development Manager of the Fidessa market data platform.
 
 Key responsibilities included:

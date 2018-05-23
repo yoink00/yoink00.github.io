@@ -1,7 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans") ;
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -32,7 +29,8 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	/*list-style: none;*/
+	margin-left : 2em;
 }
 blockquote, q {
 	quotes: none;
@@ -56,7 +54,7 @@ body {
 	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family : "Noto Sans", sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -112,9 +110,9 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+/*h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family : "Noto Sans", sans-serif;
 	width: 65%;
 }
 
@@ -127,14 +125,12 @@ h1 {
 }
 
 h1+p { 
-	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -151,7 +147,58 @@ h3 {
 	top: 1.6em;
 	text-align: right;
 	width: 18%;
+}*/
+
+h1, h2, h3, h4 {
+  font-weight : 400;
+  font-family : "Noto Sans", sans-serif;
+  width : 65%
 }
+
+h1 {
+  text-align : left;
+  font-size : 3em;
+  line-height : 1em;
+  position : relative;
+  left : 33%
+}
+
+h1+p {
+  font-style : italic;
+  font-size : 110%
+}
+
+h2 {
+  font-size : 1.1000000000000001em;
+  color: #aaa;
+  margin-top : 1em;
+  position : relative;
+  top : 1.3999999999999999em;
+  text-align : right;
+  width : 20%;
+  font-weight : 600
+}
+
+h3 {
+  font-size : 0.94999999999999996em;
+  line-height : 2em;
+  position : relative;
+  top : 1.7em;
+  text-align : right;
+  width : 20%;
+  color : #666;
+}
+
+h4 {
+  font-size : 0.75em;
+  line-height : 2em;
+  position : relative;
+  top : 1.7em;
+  text-align : right;
+  width : 20%;
+  color : #999;
+}
+
 
 a {
 	color: inherit;
@@ -167,7 +214,7 @@ a:hover {
 	position: relative;
 	left: 28%;
 	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
+	font-family : "Noto Sans", sans-serif;
 	font-size: 80%;
 }
 
@@ -189,6 +236,16 @@ strong {
 	visibility: hidden;
 }
 
+ul.skill-list {
+  margin-top : 0em;
+  list-style : none;
+  margin-left : -1em
+}
+
+ul.skill-list li {
+  display : inline;
+  white-space : nowrap
+}
 
 
 
