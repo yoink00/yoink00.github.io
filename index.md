@@ -136,7 +136,7 @@ Duties included:
 - Defining the software and hardware platform required to run FlexTrade’s SaaS offering.
 - Working with FlexTrade’s Infrastructure team to deliver the platform required for the SaaS offering.
 - Providing a delivery mechanism to allow the Client Services team to deliver solutions to clients quickly and efficiently.
-- - Developing a SaaS monitoring tool to allow support and implementation team to proactively support client’s systems.
+- Developing a SaaS monitoring tool to allow support and implementation team to proactively support client’s systems.
 - Recruitment of technical implementation and support staff. Achievements in this role included:
 - Implementing a configuration management system (Git) and deployment process (custom Python) for SaaS customers, decreasing deployment time and risk and increasing customer satisfaction and customer uptake of new releases.
 - Design and development of a primary-standby HA setup for FlexTrade systems using a mixture of existing FlexTrade tools, new management scripts, Postgres streaming replication and Linux system configuration.
