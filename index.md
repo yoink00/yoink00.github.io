@@ -99,17 +99,16 @@ Genesis develops a microservices framework and products built on that framework 
 __Head of Technical Architecture__, London
 
 Duties include:
+- Hands-on development of products on the microservices framework (Java 8, Kotlin)
+- Responsibility for the microservices architecture including defining the future of the architecture and developing a roadmap to keep up with current technology and practises.
 - Responsibility for infrastructure (AWS) and DevOps including hiring and strategy.
-- Responsibility for the microservices architecture and ensuring products follow the architecture.
-- Define the future of the microservices architecture and develop a roadmap to keep up with current trends.
-- Creating of development processes and best practices across the development teams.
+- Introduction of Agile processes across the development and infrastructure/DevOps teams.
 - Unification of development teams across geographies into one team.
-- Development of products on the microservices framework (Java 8, Kotlin)
 
 Achievements in this role:
 - Built DevOps team and worked with the team to:
   - Introduce CI/CD tools
-  - Introduce infrastructure as code (Terraform and Ansible) for all managed environments.
+  - Introduce infrastructure as code (Terraform, Ansible, Bash, Go) for all managed environments.
 - Developed new real-time trade and transaction reconciliation product to satisfy new MiFID 2 requirements (Kotlin)
  - Worked with clients to deploy the software on-premises and integrate the product into existing message flows (FIX, files, FPML)
 - Developed new framework integration with R (Java 8, R) and investigating possible performance and user experience improvements using GraalVM.
