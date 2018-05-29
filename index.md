@@ -120,7 +120,7 @@ FlexTrade develop several multi-asset trading products including an equities OMS
 #### June 2016 - August 2017
 __Head of Infrastructure, Europe__, London
 
-Duties include:
+Duties included:
 - Management of a team of 7 including system administrators, network engineers and desktop support.
 - Management and ownership of:
   + The SaaS platform in Europe hosted in three datacentres.
