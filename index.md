@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Stuart Wallaces's CV
+title: Stuart Wallace's CV
 ---
 # Stuart Wallace
 Programmer, People Person, Technologist
