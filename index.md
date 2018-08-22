@@ -3,7 +3,7 @@ layout: cv
 title: Stuart Wallace's CV
 ---
 # Stuart Wallace
-Programmer, People Person, Technologist
+Programmer, Leader, Technologist
 
 <div id="webaddress">
 <a href="stuart@wapbot.co.uk">stuart@wapbot.co.uk</a>
