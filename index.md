@@ -14,11 +14,11 @@ Programmer, People Person, Technologist
 
 ## Currently
 
-Head of Technical Architecture at Genesis Global helping deliver a microservices platform to banks, hedge funds, broker/dealers, exchanges and clearing houses.
+Chief Technology Officer at Genesis Global helping deliver a microservices platform to banks, hedge funds, broker/dealers, exchanges and clearing houses.
 
 ## Specialised in
 
-Software developer delivering excellent software and solutions to clients being involved in the full lifecycle from requirements gathering to development to delivering on premises and in the cloud.
+Technologist delivering excellent software and solutions to clients being involved in the full lifecycle from requirements gathering to development to delivering on premises and in the cloud.
 
 ## Skills
 
@@ -34,6 +34,7 @@ Software developer delivering excellent software and solutions to clients being 
 - Lua
 - Python
 - Tcl
+- Solidity
 {: .skill-list }
 
 ### Operating Systems
@@ -53,6 +54,7 @@ Software developer delivering excellent software and solutions to clients being 
 - Reuters RFA / RMDS
 - FIX Protocol
 - Market Data protocols (ITCH, FAST, etc)
+- Blockchain (Ethereum)
 {: .skill-list }
 
 ### Databases
@@ -71,6 +73,7 @@ Software developer delivering excellent software and solutions to clients being 
 - Nomad
 - CoreOS
 - Consul
+- Kubernetes
 {: .skill-list }
 
 ### Architecture
@@ -96,14 +99,16 @@ Software developer delivering excellent software and solutions to clients being 
 Genesis develops a microservices framework and products built on that framework targetted at financial services.
 
 #### September 2017 - Present
-__Head of Technical Architecture__, London
+__Chief Technology Officer__, London
 
 Duties include:
 - Hands-on development of products on the microservices framework (Java 8, Kotlin)
 - Responsibility for the microservices architecture including defining the future of the architecture and developing a roadmap to keep up with current technology and practises.
+- Defining technical strategy.
 - Responsibility for infrastructure (AWS) and DevOps including hiring and strategy.
 - Introduction of Agile processes across the development and infrastructure/DevOps teams.
 - Unification of development teams across geographies into one team.
+- Management of technology teams
 
 Achievements in this role:
 - Built DevOps team and worked with the team to:
@@ -112,7 +117,7 @@ Achievements in this role:
 - Developed new real-time trade and transaction reconciliation product to satisfy new MiFID 2 requirements (Kotlin)
  - Worked with clients to deploy the software on-premises and integrate the product into existing message flows (FIX, files, FPML)
 - Developed new framework integration with R (Java 8, R) and investigating possible performance and user experience improvements using GraalVM.
-- Dockerise Genesis installs to take advantage of modern microservices tooling with a focus on defining a Genesis product pods for Kubernetes (Go, Docker, Kubernetes, ECSfK).
+- Dockerise Genesis installs to take advantage of modern microservices tooling with a focus on defining a Genesis product pods for Kubernetes (Go, Docker, Kubernetes, EKS).
 
 ### FlexTrade UK Ltd
 FlexTrade develop several multi-asset trading products including an equities OMS, a multi-asset EMS and an FX sell-side system and SaaS services based on those products.
